@@ -9,7 +9,8 @@ import { ProductListComponent2 } from './product-list copy/product-list2.compone
 import { ProductItemComponent2 } from './product-list copy/product-item/product-item2.component';
 import { ProductListComponent3 } from './product-list copy 2/product-list3.component';
 import { ProductItemComponent3 } from './product-list copy 2/product-item/product-item3.component';
-
+import { ProductListComponent4 } from './product-list copy 3/product-list4.component';
+import { ProductItemComponent4 } from './product-list copy 3/product-item/product-item4.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -19,7 +20,9 @@ import { ProductItemComponent3 } from './product-list copy 2/product-item/produc
     ProductListComponent2,
     ProductItemComponent2,
     ProductListComponent3,
-    ProductItemComponent3
+    ProductItemComponent3,
+    ProductListComponent4,
+    ProductListComponent4
   ],
   imports: [BrowserModule],
   providers: [],
