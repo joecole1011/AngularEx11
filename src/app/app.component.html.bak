@@ -10,12 +10,17 @@
 <br />
 
 <h2>Product List2</h2>
-<h2>Lab 3 ทดสอบ Reipe#2</h2>
+<h2>Lab 2 (3) ทดสอบ Reipe#2</h2>
 <app-product-list2></app-product-list2>
 
 <br />
 <br />
 
+<div>
+  <h2>Product List3</h2>
+  <h2>Lab 4 - ทดสอบ Reipe#3 ViewChild</h2>
+  <app-product-list3 #productList></app-product-list3>
+</div>
 
 <br />
 <br />
